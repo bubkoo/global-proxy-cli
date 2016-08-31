@@ -1,20 +1,4 @@
-# global-proxy-cli
 
-> Set system proxy for mac and windows platform.
-
-[![MIT License](https://img.shields.io/badge/license-MIT_License-green.svg?style=flat-square)](https://github.com/bubkoo/global-proxy-cli/blob/master/LICENSE)
-
-
-## Installation
-
-```
-$ npm install -g global-proxy-cli
-```
-
-
-## Usage
-
-```
   enable/disable system proxy.
 
   Usage: global-proxy [options]
@@ -36,15 +20,5 @@ $ npm install -g global-proxy-cli
   $ global-proxy -s
   $ global-proxy --enable --host=127.0.0.1 --port=9000
   $ global-proxy --disable
-```
 
-## Related
-
-- [global-proxy](https://github.com/bubkoo/global-proxy) - Set system proxy for mac and windows platform.
-
-
-## Contributing
-
-Pull requests and stars are highly welcome.
-
-For bugs and feature requests, please [create an issue](https://github.com/bubkoo/global-proxy-cli/issues/new).
+  For more details see https://github.com/bubkoo/global-proxy

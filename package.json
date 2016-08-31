@@ -1,0 +1,44 @@
+{
+  "name": "global-proxy-cli",
+  "version": "0.0.1",
+  "description": "Set system proxy for mac and windows platform.",
+  "main": "./lib/index.js",
+  "bin": {
+    "global-proxy": "./bin/cli.js"
+  },
+  "scripts": {
+    "lint": "jshint ./lib/index.js",
+    "prepublish": "npm run lint"
+  },
+  "author": {
+    "name": "bubkoo",
+    "email": "bubkoo.wy@gmail.com"
+  },
+  "engines": {
+    "node": ">=0.12.8"
+  },
+  "keywords": [
+    "proxy",
+    "system",
+    "global",
+    "mac",
+    "win",
+    "windows"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bubkoo/global-proxy-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bubkoo/global-proxy-cli/issues"
+  },
+  "homepage": "https://github.com/bubkoo/global-proxy-cli#readme",
+  "dependencies": {
+    "global-proxy": "0.0.3",
+    "minimist": "^1.2.0"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.3"
+  }
+}
