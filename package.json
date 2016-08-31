@@ -1,8 +1,7 @@
 {
   "name": "global-proxy-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Set system proxy for mac and windows platform.",
-  "main": "./lib/index.js",
   "bin": {
     "global-proxy": "./bin/cli.js"
   },
