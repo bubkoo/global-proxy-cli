@@ -1,4 +1,4 @@
-'use strict';
+#!/usr/bin/env node
 
 var actions = require('../lib/index');
 

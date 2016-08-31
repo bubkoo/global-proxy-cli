@@ -11,7 +11,7 @@
   -h, --host hostname ............ the hostname of the system proxy.
   -p, --port port ................ the port of the system proxy.
   -t, --type protocol ............ the protocol of the system proxy.
-  -s, --status ................... get the status of the system proxy.(mac only)
+  -s, --status ................... get the status of the system proxy.(for mac only)
   -V, --version .................. display the current version of this cli.
   -H, --help ..................... you're looking at it.
 
