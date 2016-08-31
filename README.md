@@ -15,8 +15,6 @@ $ npm install -g global-proxy-cli
 ## Usage
 
 ```
-  enable/disable system proxy.
-
   Usage: global-proxy [options]
 
 
